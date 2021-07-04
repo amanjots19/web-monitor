@@ -1,0 +1,53 @@
+.container{
+    position:absolute;
+    top: 156px;
+    padding: 15px 15px;
+    width: 100vw;
+    height: 400px;
+}
+.body{
+    display: flex;
+    justify-content: center;
+    padding-left: 85px;
+}
+.button{
+    display: flex;
+    justify-content: center;
+    
+}
+
+label{
+    font-size: x-large;
+    font-weight: bolder;
+    padding-left: 5px;
+
+}
+.inputField{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.input{
+    padding: 6px;
+}
+select{
+    
+    position: absolute;
+    top: 62px;
+    right: 492px;
+    margin-top: 57.26px;
+    padding: 5.5px;
+}
+.label{
+    padding-left: 10px;
+}
+.apunButton{
+    padding: 5px;
+    width: 154px;
+    color: white;
+    background-color: black;
+    font-weight: bold;
+}
